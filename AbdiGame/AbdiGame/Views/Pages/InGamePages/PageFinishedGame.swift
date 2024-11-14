@@ -22,7 +22,7 @@ struct PageFinishedGame: View {
                     
                     Spacer()
                     
-                    Text("How about another one?")
+                    Text("How about another one? ")
                         .font(.title2)
                         .foregroundStyle(.white)
                         .padding(.top, 1)
